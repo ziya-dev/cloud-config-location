@@ -1,5 +1,5 @@
 simple-client:
-  message: This is a changed message
+  message: This is a the latest message on 06-01
 
 server:
   port: 8880
