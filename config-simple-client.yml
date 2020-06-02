@@ -1,5 +1,5 @@
 simple-client:
-  message: This is a custom message from properties
+  message: This is a changed message
 
 server:
   port: 8880
